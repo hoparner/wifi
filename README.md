@@ -1,5 +1,5 @@
 # wifi
-`git clone https://github.com/hoparner/wifi.git/
+`git clone https://github.com/hoparner/wifi.git/`
 
 `bash run.sh`
 
